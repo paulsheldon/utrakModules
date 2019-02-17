@@ -4,6 +4,7 @@
 [![Total Downloads](https://poser.pugx.org/utrak/modules/downloads)](https://packagist.org/packages/utrak/modules)
 [![Latest Unstable Version](https://poser.pugx.org/utrak/modules/v/unstable)](https://packagist.org/packages/utrak/modules)
 [![License](https://poser.pugx.org/utrak/modules/license)](https://packagist.org/packages/utrak/modules)
+[![CodeFactor](https://www.codefactor.io/repository/github/paulsheldon/utrakmodules/badge)](https://www.codefactor.io/repository/github/paulsheldon/utrakmodules)
 
 
 utrakJson is a JSON debugger module to show debug information when a debug flag is set
