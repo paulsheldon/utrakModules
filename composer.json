@@ -1,0 +1,20 @@
+{
+  "name": "utrak/modules",
+  "type": "library",
+  "description": "uTrak json php test module",
+  "keywords": [
+    "json"
+  ],
+  "homepage": "https://github.com/paulsheldon/utrakModules",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paul Sheldon",
+      "email": "paulsheldon1966@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "ext-json": "*"
+  }
+}

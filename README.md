@@ -35,7 +35,7 @@ $utrakJson->displayJson();
 
 ### Submitting bugs and feature requests
 
-Bugs and feature request are tracked on [Bitbucket](https://bitbucket.org/paulsheldon1966/utrak-modules/issues)
+Bugs and feature request are tracked on [GitHub](https://github.com/paulsheldon/utrakModules/issues)
 
 
 ### Author
